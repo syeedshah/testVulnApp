@@ -1,2 +1,2 @@
-cryptography==4.5
+cryptography==1.5
 
