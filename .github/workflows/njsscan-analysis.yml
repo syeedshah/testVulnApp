@@ -32,4 +32,4 @@ jobs:
       with:
         args: '. --json --output njsscan.json || true'
     - name: Upload njsscan report
-      uses: ./uploadJsScanToDojo.json
+      uses: ./uploadJsScanToDojo.sh
