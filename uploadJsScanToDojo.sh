@@ -1,2 +1,2 @@
 ls
-echo JsScan.json
+echo jsscan.json
