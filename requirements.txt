@@ -1,4 +1,4 @@
-cryptography==1.0
+cryptography==3.3.2
 jquery==1.0
 
 
