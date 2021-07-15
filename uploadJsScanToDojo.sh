@@ -1,2 +1,3 @@
+pwd
 ls
-echo jsscan.json
+
